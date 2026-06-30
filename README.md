@@ -2,33 +2,33 @@ AI Text Summarization Tool
 
 A simple Python-based AI application that generates concise summaries from long text using the Hugging Face Transformers library and the facebook/bart-large-cnn model.
 
-🚀 Features
-📄 Summarize manually entered text
-📂 Read text directly from a .txt file
-🤖 Powered by Facebook's BART Large CNN model
-⚡ Fast and accurate abstractive summarization
-✅ Simple command-line interface (CLI)
-🛠️ Technologies Used
+ Features
+ Summarize manually entered text
+ Read text directly from a .txt file
+ Powered by Facebook's BART Large CNN model
+ Fast and accurate abstractive summarization
+Simple command-line interface (CLI)
+ Technologies Used
 Python 3.x
 Hugging Face Transformers
 PyTorch
 Facebook BART Large CNN Model
-📁 Project Structure
+ Project Structure
 .
 ├── sum.py          # Main application
 ├── README.md       # Project documentation
 └── requirements.txt
-📦 Installation
+ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/text-summarizer.git
+git clone https://github.com/bdatchanamoorthi/text-summarizer.git
 cd text-summarizer
 
 Install dependencies:
 
 pip install transformers torch
-▶️ Usage
+Usage
 
 Run the application:
 
@@ -41,7 +41,7 @@ Choose one of the following options:
 
 The application will generate a concise summary if the input text is long enough.
 
-💡 Example
+ Example
 
 Input
 

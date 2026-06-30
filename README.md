@@ -22,8 +22,6 @@ Facebook BART Large CNN Model
 
 Clone the repository:
 
-git clone https://github.com/bdatchanamoorthi/text-summarizer.git
-cd text-summarizer
 
 Install dependencies:
 
